@@ -1,0 +1,1 @@
+var e=`/doc-to-markdown-now-site/assets/pdf.worker.min-CIqJB0yW.mjs`;export{e as default};
